@@ -17,15 +17,14 @@ theme:
   #   - navigation.tabs.sticky  # （可选）让 tab 在滚动时仍固定在顶部
 
 nav:
-  - Welcome: 
-    - index.md
-    - deployment-guide.md
+  - Welcome: index.md
   - Research details:
     - research/HCHOT.md
     - research/GEMSdiurnal.md
   - Not about work: 
     - life/music.md
     - life/outdoor.md
+    - deployment-guide.md
 
 plugins:
   - search
