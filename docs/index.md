@@ -6,7 +6,7 @@
 
 - I use **satellite data**, **chemical transport model** and **ground-based measuremnts**.
 
-- You can find my resume [here](assets/resume/resume.pdf).
+- You can find my resume [here](assets/resume/resume.pdf) (coming soon).
 
 
 ## Commands
