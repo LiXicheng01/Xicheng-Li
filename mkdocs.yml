@@ -1,0 +1,32 @@
+site_name: Xicheng Li (李熹成)
+site_url: https://lixicheng01.github.io/Xicheng-Li/
+
+theme:
+  name: material 
+  palette:
+    scheme: default  # ☀️ 亮色模式
+    primary: blue
+    accent: indigo
+  font:
+    text: Inter
+    code: Red Hat Mono
+  logo: assets/favicon2.png
+  favicon: assets/favicon.png
+  features:
+    - navigation.tabs  # 启用顶部导航 tab
+  #   - navigation.tabs.sticky  # （可选）让 tab 在滚动时仍固定在顶部
+
+nav:
+  - Welcome: index.md
+  - Research details:
+    - research/HCHOT.md
+    - research/GEMSdiurnal.md
+  - Not about work: 
+    - life/music.md
+    - life/outdoor.md
+
+plugins:
+  - search
+
+extra_css:
+- stylesheets/extra.css
